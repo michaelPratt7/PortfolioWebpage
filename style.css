@@ -1,0 +1,77 @@
+/*body*/
+body {
+  background-color: palegoldenrod;
+}
+
+body main{
+  text-align: center;
+  padding-left: 300px;
+  padding-right: 300px;
+}
+/*header*/
+header {
+  background-color:goldenrod;
+  margin: 20px;
+  padding: 1px;
+  text-align: center;
+}
+
+header h1 {
+  font-family:math;
+  color:palegoldenrod;
+  font-size: 70px;
+  letter-spacing: 5px;
+}
+
+header p {
+  font-family: cursive;
+  color: palegoldenrod;
+}
+
+header h2 {
+  font-family: cursive;
+  font-size: 20px;
+  color:gold;
+  text-decoration-line: overline;
+  text-decoration-style: wavy;
+  text-decoration-color: darkred;
+}
+/*main*/
+main section {
+  text-align: center;
+  padding: 0px, 400px, 0px, 400px;
+}
+
+main section p {
+  text-align: left;
+}
+
+main section ul {
+  text-align: left;
+}
+
+main section ol {
+  text-align: left;
+}
+/* footer*/
+footer {
+  background-color: goldenrod;
+  text-align: center;
+  padding: 10px;
+  color: palegoldenrod;
+  font-size: 50px;
+  margin: 20px;
+}
+/*pseudoclasses*/
+a:link {
+  color: blue;
+}
+a:visited {
+  color: purple;
+}
+a:hover {
+  color: red;
+}
+a:active {
+  color: green;
+}
